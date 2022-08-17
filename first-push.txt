@@ -1,6 +1,7 @@
 this is the first push
 :wq
 :wq
+Ok, now we can edit pushed files...YEA!
 
 
 
